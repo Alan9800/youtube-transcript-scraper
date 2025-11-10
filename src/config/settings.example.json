@@ -1,0 +1,5 @@
+{
+  "api_key": "your_api_key_here",
+  "default_output_format": "json",
+  "youtube_api_url": "https://www.googleapis.com/youtube/v3/captions"
+}
